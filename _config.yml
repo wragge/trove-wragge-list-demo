@@ -1,6 +1,5 @@
 author: wragge
-description: CollectionBuilder-GH is a template for creating small digital collection
-  exhibits on GitHub Pages designed for teaching digital library skills
+description: This exhibition was generated from a Trove List by the GLAM Workbench.
 exclude:
 - docs/
 - Rakefile
@@ -10,5 +9,5 @@ metadata: 83777-items
 sass:
   style: compressed
 source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
-tagline: a template for creating simple digital exhibits
+tagline: a selection of items from Trove
 title: Clement Wragge
